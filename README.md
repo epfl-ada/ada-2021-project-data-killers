@@ -1,12 +1,12 @@
 # ADA_Project
 
-## Bitcoin Surging Or Crashing ? Let public figures decide.
+The full datastory of our project can be found here https://datakillers.xyz/
+
+## Bitcoin and public figures' quotes: An extensive analysis of the potential underlying link.
 
 ## Abstract:
 In the last five years, Bitcoin was by far the most volatile largely traded asset. Given its decentralized nature, multiple factors can manipulate its price direction. We would like to shed light on one of those factors: Public Speakers' Quotations. On one side, retail investors stem their entry and exit strategies (when to buy and when to sell) from the feeling conveyed by the subjective speeches of notorious public investors, which may cause drastic fluctuations in the bitcoin's price and trading volume. On the other hand, news and people in social media are known to be very reactive to the cryptocurrency market fluctuations. A fear and greed index reproduces this aspect based on crowdsourcing feelings from social media, Google trends and surveys analysis.<br/>
 Using the Quotebank dataset, we would like to investigate the correlation and the potential causality between the public speakers' quotes, the greed and fear index and Bitcoin’s historical data.
-
-The full datastory of our project can be found here https://datakillers.xyz/
  
 ## Research Questions:
 We would like to address the following research topics:
