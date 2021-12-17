@@ -93,7 +93,7 @@ The references to NLP models and code helpers are cited in the sections where th
 
 ## Organization within the team:
 
-Dzung: Sentiment analysis pipeline, occupation mapping.
+Trung Dung: Sentiment analysis pipeline, occupation mapping.
 
 Taha: Causality checks, notebooks preparation.
 
