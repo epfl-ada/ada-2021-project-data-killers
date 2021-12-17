@@ -1,5 +1,3 @@
-# ADA_Project
-
 The full datastory of our project can be found here https://datakillers.xyz/
 
 ## Bitcoin and public figures' quotes: An extensive analysis of the potential underlying link.
